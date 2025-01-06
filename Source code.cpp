@@ -5,7 +5,6 @@
 #define M_PI 3.14159265358979323846264338327950288
 #pragma comment(lib, "msimg32.lib")
 
-
 typedef union _RGBQUAD {
 	COLORREF rgb;
 	struct {
